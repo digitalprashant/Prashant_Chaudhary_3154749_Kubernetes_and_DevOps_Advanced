@@ -1,0 +1,16 @@
+{
+  "name": "pacific-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js API service to retrieve data from MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Prashant Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}

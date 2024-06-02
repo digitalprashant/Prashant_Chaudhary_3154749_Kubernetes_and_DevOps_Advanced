@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mysql-config
+  namespace: my-pacific-database
+data:
+  MYSQL_HOST: mysql
+  MYSQL_DATABASE: mydb
