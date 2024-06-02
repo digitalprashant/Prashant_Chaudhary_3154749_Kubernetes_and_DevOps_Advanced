@@ -1,6 +1,6 @@
 # Project Description
-This project includes K8S services YAML files
-Also include Node Application containing Docker implementation to fetch records from DB
+## This project includes K8S services YAML files
+## Also include Node Application containing Docker implementation to fetch records from DB
 
 # Link for the code repository.
 
